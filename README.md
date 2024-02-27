@@ -1,13 +1,13 @@
 
 # **AI Sassy Chef Assistant** 
 
+APP: https://kksemina-ai-cooking-assistant.hf.space
 
 Small project that builds a personalized AI Cooking Assistant to help with meal planning using OpenAI API. 
+The app is hosted on Hugginf face space.
+
 
 ![Alt text](LittleChef.png)
-
-![image](https://github.com/kksemina/AI_Cooking_Assistant/assets/73604041/12094735-05e7-4099-9858-4e1bc6760f22). 
-
 
 
 --------------------
@@ -30,6 +30,13 @@ pip install gradio
 pip insall openai
 ```
 
+---------------------
+
+**Hugging Face Spaces**
+
+Website: https://huggingface.co/spaces
+Documentation: https://huggingface.co/docs
+Tutorial: https://huggingface.co/docs/hub/en/spaces-overview
 
 
 ---------------------
